@@ -2,7 +2,7 @@ Hi there! 👋 I'm Frank Timmon
 I'm a passionate video editor and content creator who loves bringing stories to life through videos. With Tubepilot AI by my side, I take my content creation game to the next level!
 
 🔧 Tools I Use:
-Tubepilot AI https://tubepilot.ai/ : My secret weapon for generating fresh video ideas, crafting catchy titles, and optimizing descriptions effortlessly.
+Tubepilot AI, My secret weapon for generating fresh video ideas, crafting catchy titles, and optimizing descriptions effortlessly.
 Video Editing Software: Adobe Premiere Pro, Final Cut Pro
 Graphic Design Tools: Adobe Photoshop, Canva
 Audio Editing Software: Adobe Audition, Audacity
@@ -16,7 +16,7 @@ Efficiency: Crafting titles and descriptions used to be a hassle, but Tubepilot 
 Optimization: With Tubepilot AI's SEO tools, I can optimize my videos for better visibility and reach a wider audience.
 
 🚀 Let's Connect:
-Tubepilot AI: https://tubepilot.ai/tools/
+Tubepilot AI
 GitHub: franktimmon on GitHub
 Feel free to reach out if you want to collaborate or chat about video editing, content creation, or anything else! Let's create something amazing together! 😊
 
